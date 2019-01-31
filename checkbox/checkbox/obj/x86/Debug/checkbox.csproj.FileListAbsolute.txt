@@ -1,0 +1,7 @@
+C:\Users\pmg\Desktop\checkbox\checkbox\bin\Debug\checkbox.exe
+C:\Users\pmg\Desktop\checkbox\checkbox\bin\Debug\checkbox.pdb
+C:\Users\pmg\Desktop\checkbox\checkbox\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\pmg\Desktop\checkbox\checkbox\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\pmg\Desktop\checkbox\checkbox\obj\x86\Debug\checkbox.csproj.GenerateResource.Cache
+C:\Users\pmg\Desktop\checkbox\checkbox\obj\x86\Debug\checkbox.exe
+C:\Users\pmg\Desktop\checkbox\checkbox\obj\x86\Debug\checkbox.pdb
