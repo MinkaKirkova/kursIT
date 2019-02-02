@@ -1,0 +1,6 @@
+C:\Users\pmg\AppData\Local\Temporary Projects\brsystems\bin\Debug\brsystems.exe
+C:\Users\pmg\AppData\Local\Temporary Projects\brsystems\bin\Debug\brsystems.pdb
+C:\Users\pmg\AppData\Local\Temporary Projects\brsystems\obj\x86\Debug\brsystems.exe
+C:\Users\pmg\AppData\Local\Temporary Projects\brsystems\obj\x86\Debug\brsystems.pdb
+C:\Users\pmg\Desktop\kursIT\modul2\brsystems\brsystems\obj\x86\Debug\brsystems.exe
+C:\Users\pmg\Desktop\kursIT\modul2\brsystems\brsystems\obj\x86\Debug\brsystems.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brsystems", "brsystems\brsystems.csproj", "{689EFD84-B365-4D9B-9999-BFE0A8370A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brsystem2", "..\brsystem2\brsystem2.csproj", "{18E968C6-1916-4726-BB01-1A35E98D28B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{689EFD84-B365-4D9B-9999-BFE0A8370A07}.Debug|x86.ActiveCfg = Debug|x86
+		{689EFD84-B365-4D9B-9999-BFE0A8370A07}.Debug|x86.Build.0 = Debug|x86
+		{689EFD84-B365-4D9B-9999-BFE0A8370A07}.Release|x86.ActiveCfg = Release|x86
+		{689EFD84-B365-4D9B-9999-BFE0A8370A07}.Release|x86.Build.0 = Release|x86
+		{18E968C6-1916-4726-BB01-1A35E98D28B2}.Debug|x86.ActiveCfg = Debug|x86
+		{18E968C6-1916-4726-BB01-1A35E98D28B2}.Debug|x86.Build.0 = Debug|x86
+		{18E968C6-1916-4726-BB01-1A35E98D28B2}.Release|x86.ActiveCfg = Release|x86
+		{18E968C6-1916-4726-BB01-1A35E98D28B2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

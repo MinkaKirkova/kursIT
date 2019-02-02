@@ -1,0 +1,8 @@
+C:\Users\pmg\AppData\Local\Temporary Projects\brsystems\bin\Release\brsystems.exe
+C:\Users\pmg\AppData\Local\Temporary Projects\brsystems\bin\Release\brsystems.pdb
+C:\Users\pmg\AppData\Local\Temporary Projects\brsystems\obj\x86\Release\brsystems.exe
+C:\Users\pmg\AppData\Local\Temporary Projects\brsystems\obj\x86\Release\brsystems.pdb
+C:\Users\pmg\Desktop\kursIT\modul2\brsystems\brsystems\bin\Release\brsystems.exe
+C:\Users\pmg\Desktop\kursIT\modul2\brsystems\brsystems\bin\Release\brsystems.pdb
+C:\Users\pmg\Desktop\kursIT\modul2\brsystems\brsystems\obj\x86\Release\brsystems.exe
+C:\Users\pmg\Desktop\kursIT\modul2\brsystems\brsystems\obj\x86\Release\brsystems.pdb

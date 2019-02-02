@@ -1,0 +1,4 @@
+C:\Users\pmg\Desktop\kursIT\modul2\brsystem2\bin\Release\brsystem2.exe
+C:\Users\pmg\Desktop\kursIT\modul2\brsystem2\bin\Release\brsystem2.pdb
+C:\Users\pmg\Desktop\kursIT\modul2\brsystem2\obj\x86\Release\brsystem2.exe
+C:\Users\pmg\Desktop\kursIT\modul2\brsystem2\obj\x86\Release\brsystem2.pdb
