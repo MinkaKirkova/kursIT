@@ -1,0 +1,7 @@
+C:\Users\ПМГ\Desktop\kursIT\zadachi\brsys10to2\brsys10to2\bin\Debug\brsys10to2.exe.config
+C:\Users\ПМГ\Desktop\kursIT\zadachi\brsys10to2\brsys10to2\bin\Debug\brsys10to2.exe
+C:\Users\ПМГ\Desktop\kursIT\zadachi\brsys10to2\brsys10to2\bin\Debug\brsys10to2.pdb
+C:\Users\ПМГ\Desktop\kursIT\zadachi\brsys10to2\brsys10to2\obj\Debug\brsys10to2.csprojAssemblyReference.cache
+C:\Users\ПМГ\Desktop\kursIT\zadachi\brsys10to2\brsys10to2\obj\Debug\brsys10to2.csproj.CoreCompileInputs.cache
+C:\Users\ПМГ\Desktop\kursIT\zadachi\brsys10to2\brsys10to2\obj\Debug\brsys10to2.exe
+C:\Users\ПМГ\Desktop\kursIT\zadachi\brsys10to2\brsys10to2\obj\Debug\brsys10to2.pdb
