@@ -1,0 +1,8 @@
+C:\Users\pmg\AppData\Local\Temporary Projects\TYPEint3\bin\Release\TYPEint3.exe
+C:\Users\pmg\AppData\Local\Temporary Projects\TYPEint3\bin\Release\TYPEint3.pdb
+C:\Users\pmg\AppData\Local\Temporary Projects\TYPEint3\obj\x86\Release\TYPEint3.exe
+C:\Users\pmg\AppData\Local\Temporary Projects\TYPEint3\obj\x86\Release\TYPEint3.pdb
+C:\Users\pmg\Desktop\kursIT\modul2\TYPEint3\TYPEint3\obj\x86\Release\TYPEint3.exe
+C:\Users\pmg\Desktop\kursIT\modul2\TYPEint3\TYPEint3\obj\x86\Release\TYPEint3.pdb
+C:\Users\pmg\Desktop\Clon_kursIT\kursIT\TYPEint3\TYPEint3\obj\x86\Release\TYPEint3.exe
+C:\Users\pmg\Desktop\Clon_kursIT\kursIT\TYPEint3\TYPEint3\obj\x86\Release\TYPEint3.pdb

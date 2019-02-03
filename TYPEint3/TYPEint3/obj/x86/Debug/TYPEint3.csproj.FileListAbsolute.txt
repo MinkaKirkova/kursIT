@@ -1,0 +1,4 @@
+C:\Users\pmg\AppData\Local\Temporary Projects\TYPEint3\bin\Debug\TYPEint3.exe
+C:\Users\pmg\AppData\Local\Temporary Projects\TYPEint3\bin\Debug\TYPEint3.pdb
+C:\Users\pmg\AppData\Local\Temporary Projects\TYPEint3\obj\x86\Debug\TYPEint3.exe
+C:\Users\pmg\AppData\Local\Temporary Projects\TYPEint3\obj\x86\Debug\TYPEint3.pdb
